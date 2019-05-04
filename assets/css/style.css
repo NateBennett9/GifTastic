@@ -1,0 +1,13 @@
+button{
+    margin: 10px;
+    /*margin-left: 20px;*/
+}
+#button0{
+    margin-left:30px;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+}
