@@ -1,11 +1,27 @@
-button{
-    margin: 10px;
-    /*margin-left: 20px;*/
-}
-#button0{
-    margin-left:30px;
+body {
+    background-image: url(https://images-na.ssl-images-amazon.com/images/I/81Q%2Bb%2BLnDbL._SX425_.jpg);
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    color:white;
 }
 
+button.searchButton {
+    margin: 5px;
+    color: blue;
+    background-color: aquamarine;
+    border-block-end-color: yellow;
+}
+.jumbotron {
+    background-image: url(https://images-na.ssl-images-amazon.com/images/I/81Q%2Bb%2BLnDbL._SX425_.jpg);
+    width: 100%;
+}
+.display-4 {
+    color:white;
+}
+.search-item {
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
 img{
     width: 200px;
     height: 200px;
